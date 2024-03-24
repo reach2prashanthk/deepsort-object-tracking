@@ -130,8 +130,16 @@ Then you can try [train.py](deep_sort/deep/train.py) to train your own parameter
 ## References
 - paper: [Simple Online and Realtime Tracking with a Deep Association Metric](https://arxiv.org/abs/1703.07402)
 
+<<<<<<< HEAD
 - code: [nwojke/deep_sort](https://github.com/nwojke/deep_sort)
 
 - paper: [YOLOv3](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 
 - code: [Joseph Redmon/yolov3](https://pjreddie.com/darknet/yolo/)
+=======
+https://youtu.be/NXLUpeWtiSY
+=======
+# deepsort-object-tracking
+Our project focuses on the development of a robust human tracking system designed to monitor pedestrian movement in urban environments. Leveraging state-of-the-art computer vision techniques, including the DeepSORT (Deep Learning for Multi-Object Tracking) algorithm, our system aims to accurately detect and track individuals
+>>>>>>> origin/main
+>>>>>>> 19c69406234c4a916bb8db528110f54acc6ce2b7
